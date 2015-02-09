@@ -21,7 +21,11 @@
   <parent>
     <groupId>org.apache.pdfbox</groupId>
     <artifactId>pdfbox-parent</artifactId>
+<<<<<<< HEAD
     <version>1.8.8</version>
+=======
+    <version>1.8.6-formiz1</version>
+>>>>>>> 6b67347bb707d6add300f3a35f620cb5f19de804
     <relativePath>../parent/pom.xml</relativePath>
   </parent>
 
