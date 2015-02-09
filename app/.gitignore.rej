@@ -1,0 +1,7 @@
+diff a/app/.gitignore b/app/.gitignore	(rejected hunks)
+@@ -1,4 +0,4 @@
+-/target
+ /.settings
++/target
+ /.classpath
+ /.project
